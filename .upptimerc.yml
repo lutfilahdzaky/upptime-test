@@ -13,6 +13,8 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
+  - name: LutfilahDz
+    url: https://lutfilahdz.my.id
 
 assignees:
   - lutfilahdzaky
@@ -22,10 +24,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.lutfilahdz.my.id
   # baseUrl: /upptime-test
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/lutfilahdzaky.png
+  name: Lutfilah Dzaky Status
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
