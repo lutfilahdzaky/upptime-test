@@ -13,8 +13,6 @@ sites:
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - lutfilahdzaky
@@ -28,7 +26,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  theme: dark
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
