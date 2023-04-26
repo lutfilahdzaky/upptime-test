@@ -5,10 +5,14 @@ repo: upptime-test # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -26,6 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
