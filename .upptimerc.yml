@@ -24,9 +24,13 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.lutfilahdz.my.id
   # baseUrl: /upptime-test
+  favicon: https://github.com/lutfilahdzaky.png
   logoUrl: https://github.com/lutfilahdzaky.png
   name: Lutfilah Dzaky Status Page
   theme: night
+
+i18n:
+  footer: 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
