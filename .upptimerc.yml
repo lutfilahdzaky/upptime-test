@@ -30,7 +30,7 @@ status-website:
   theme: night
 
 i18n:
-  footer: 
+  footer: Test
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
