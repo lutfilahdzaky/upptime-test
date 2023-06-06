@@ -58,19 +58,19 @@
     "url": "https://lutfilahdz.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/lutfilahdz.my.id.ico",
     "slug": "lutfilah-dz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 681,
-    "timeWeek": 816,
-    "timeMonth": 874,
-    "timeYear": 885,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 888,
+    "timeDay": 789,
+    "timeWeek": 837,
+    "timeMonth": 878,
+    "timeYear": 888,
     "dailyMinutesDown": {
-      "2023-06-06": 0
+      "2023-06-06": 16
     }
   }
 ]
