@@ -63,7 +63,7 @@
     "url": "https://lutfilahdz.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/lutfilahdz.my.id.ico",
     "slug": "lutfilah-dz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
@@ -75,6 +75,7 @@
     "timeMonth": 3702,
     "timeYear": 2327,
     "dailyMinutesDown": {
+      "2023-09-29": 0,
       "2023-09-28": 18,
       "2023-09-02": 264,
       "2023-09-01": 32,
